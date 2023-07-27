@@ -8,10 +8,6 @@ Hey,  I've created a small project using HTML and CSS to practice and demonstrat
 
 Welcome to the Amazon Clone project! This is a front-end clone of the Amazon website, built using HTML and CSS. The goal of this project is to replicate the look and feel of the Amazon homepage and product detail pages, showcasing my skills in web development.
 
-## Live Demo
-
-Check out the live demo of the Amazon Clone [here](https://www.example.com).
-
 ## Technologies Used
 
 - HTML
@@ -35,7 +31,7 @@ Check out the live demo of the Amazon Clone [here](https://www.example.com).
 
 ## Contribution
 
-I welcome contributions to improve the Amazon Clone project. If you find any issues or want to suggest enhancements, feel free to open an issue or submit a pull request. Please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+I welcome contributions to improve the Amazon Clone project. If you find any issues or want to suggest enhancements, feel free to open an issue or submit a pull request.
 
 ## Contact
 
